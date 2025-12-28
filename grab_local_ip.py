@@ -2,8 +2,9 @@
 
 """
     Description: This script will utilize the ip command in order to grab the IPv4 address of NIC's that are in the 'UP' state
+                 I found this solution either online or with the help of ChatGPT
     Date: 12/25/2024
-    Author: i-stackz
+    Author: istackz
 """
 
 # import python modules/code libraries
